@@ -10,6 +10,7 @@ package-mode = false
 python = "^3.11"
 jupyter = "^1.0.0"
 langchain = "^0.1.13"
+pandas = "^2.2.1"
 
 
 [build-system]
